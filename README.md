@@ -17,12 +17,12 @@ I'm a soldier by profession, and I enjoy coding and exploring different technolo
 
 ## Contact Me
 
-- 📫 You can reach me via email at [malakauskasgabrielius@gmail.com](mailto:your-email@example.com).
+- 📫 You can reach me via email at [malakauskasgabrielius@gmail.com](mailto:malakauskasgabrielius@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielius-malakauskas-b12975272/) to connect professionally and learn more about my experience.
 
 ## Projects and Learning Resources
 
-- If you're a beginner looking for coding projects, I recommend checking out my repository [Fruity Serpent](https://github.com/your-username/Fruity_Serpent), a Python snake game I built as a learning project. It's a fun way to practice Python programming and game development.
+- If you're a beginner looking for coding projects, I recommend checking out my repository [Fruity Serpent](https://github.com/Gabutis/Fruity_Serpent), a Python snake game I built as a learning project. It's a fun way to practice Python programming and game development.
 - I also enjoy exploring different gaming projects and technologies. Feel free to browse through my repositories for more examples and inspirations.
 
 Let's connect and learn together! Happy coding! 🚀
