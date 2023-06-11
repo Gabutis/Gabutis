@@ -1,19 +1,19 @@
 # Hi there, I'm Gabrielius! 👋
 
-I'm a soldier by profession, and I enjoy coding and exploring different technologies in my free time. I'm located in Lithuania. Here's a bit about me:
+I'm a soldier by profession and enjoy coding in my free time. I'm located in Lithuania. Here's a bit about me:
 
 ## About Me
 
-- 🔭 I'm currently working on finishing the course "Python for Beginners," where I'm honing my Python programming skills.
-- 🌱 I'm actively learning and diving into the realm of machine learning, exploring different algorithms and techniques.
-- 👯 I'm open to collaborating on beginner-friendly machine learning projects or contributing to existing ML projects.
-- 🤔 If you need help or guidance with machine learning concepts or starting your ML journey, feel free to reach out.
-- 💬 Ask me about Python programming, beginner-friendly ML projects, or anything related to gaming.
+- 🔭 I recently finished a Python for Beginners course with a perfect grade, honing my Python programming skills.
+- 🌱 Currently, I'm learning Godot, a game development engine, and focusing on creating a simple resource management game.
+- 👯 I'm open to collaborating on beginner-friendly game development projects or contributing to existing game projects.
+- 💬 Ask me about Python programming, Godot game development, or anything related to gaming.
 - 😄 Pronouns: He/Him
 
-## Fun Fact
+## Fun Facts
 
-- ⚡ I'm raising a hedgehog named Sonik. He's my little companion and brings joy to my coding sessions.
+- ⚡ I'm raising a hedgehog named Sonik, who brings joy to my coding sessions.
+- 🍳 I also enjoy cooking on my Kamado BONO grill.
 
 ## Contact Me
 
@@ -23,6 +23,6 @@ I'm a soldier by profession, and I enjoy coding and exploring different technolo
 ## Projects and Learning Resources
 
 - If you're a beginner looking for coding projects, I recommend checking out my repository [Fruity Serpent](https://github.com/Gabutis/Fruity_Serpent), a Python snake game I built as a learning project. It's a fun way to practice Python programming and game development.
-- I also enjoy exploring different gaming projects and technologies. Feel free to browse through my repositories for more examples and inspirations.
+- Feel free to browse through my repositories for more examples and inspirations.
 
 Let's connect and learn together! Happy coding! 🚀
