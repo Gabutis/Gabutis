@@ -5,7 +5,7 @@ I'm a soldier by profession and enjoy coding in my free time. I'm located in Lit
 ## About Me
 
 - 🔭 I recently finished a Python for Beginners course with a perfect grade, honing my Python programming skills.
-- 🌱 Currently, I'm learning Godot, a game development engine, and focusing on creating a Vampire Survival clone.
+- 🌱 Currently, I'm diving into the world of Artificial Intelligence, with a focus on machine learning and deep learning, through courses at Code Academy.
 - 👯 I'm open to collaborating on beginner-friendly game development projects or contributing to existing game projects.
 - 💬 Ask me about Python programming, Godot game development, or anything related to gaming.
 - 😄 Pronouns: He/Him
